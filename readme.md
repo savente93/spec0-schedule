@@ -1,6 +1,6 @@
-# SPEC-0 Support Schedule
+# SPEC 0 Support Schedule
 
-This repository provides human- and machine-readable artifacts for the [SPEC-0 support schedule](https://scientific-python.org/specs/spec-0000/) endorsed by the [Scientific Python Project](https://github.com/scientific-python/).
+This repository provides human- and machine-readable artifacts for the [SPEC 0 support schedule](https://scientific-python.org/specs/spec-0000/) endorsed by the [Scientific Python Project](https://github.com/scientific-python/).
 
 It primarily exists to publish generated versions of the dependency schedule. Most users will not need to use this repository directly. If you are looking for automation, see the companion GitHub Action: [update-spec0-dependencies](https://github.com/savente93/update-spec0-dependencies).
 
@@ -20,7 +20,7 @@ This repository adapts the script [`SPEC0_versions.py`](https://github.com/scien
 
 Changes by **Sam Vente** include:
 
-* Adding generation of a JSON payload with the newest lower supported bounds of SPEC-0 dependencies, to support automation.
+* Adding generation of a JSON payload with the newest lower supported bounds of SPEC 0 dependencies, to support automation.
 
 Copyright (c) 2025 Sam Vente
 Licensed under the BSD-3-Clause License.
