@@ -1,17 +1,3 @@
-#### 2025 - Quarter 1:
-
-###### Recommend drop support for:
-
-|              |                      |                                |
-| ------------ | -------------------- | ------------------------------ |
-| ipython      | 8.8.0 to 8.12.0      | released Jan 2023 and Mar 2023 |
-| matplotlib   | 3.7.0                | released Feb 2023              |
-| networkx     | 3.0                  | released Jan 2023              |
-| scikit-image | 0.20.0               | released Feb 2023              |
-| scipy        | 1.10.0               | released Jan 2023              |
-| xarray       | 2023.1.0 to 2023.3.0 | released Jan 2023 and Mar 2023 |
-| zarr         | 2.14.0               | released Feb 2023              |
-
 #### 2025 - Quarter 2:
 
 ###### Recommend drop support for:
@@ -129,7 +115,7 @@
 
 ###### Recommend drop support for:
 
-|         |          |                   |
-| ------- | -------- | ----------------- |
-| ipython | 9.4.0    | released Jul 2025 |
-| xarray  | 2025.7.0 | released Jul 2025 |
+|         |                      |                                |
+| ------- | -------------------- | ------------------------------ |
+| ipython | 9.4.0 to 9.5.0       | released Jul 2025 and Aug 2025 |
+| xarray  | 2025.7.0 to 2025.8.0 | released Jul 2025 and Aug 2025 |
