@@ -118,4 +118,4 @@
 |         |                      |                                |
 | ------- | -------------------- | ------------------------------ |
 | ipython | 9.4.0 to 9.5.0       | released Jul 2025 and Aug 2025 |
-| xarray  | 2025.7.0 to 2025.8.0 | released Jul 2025 and Aug 2025 |
+| xarray  | 2025.7.0 to 2025.9.0 | released Jul 2025 and Sep 2025 |
