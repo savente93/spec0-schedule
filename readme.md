@@ -1,3 +1,7 @@
+# NOTE
+these changes have since been accepted into https://github.com/scientific-python/spec0-action and therefore this one is no longer maintained. The repo will exist for some time as an archive and eventually be removed. Please post any issues or PRs there.
+
+
 # SPEC 0 Support Schedule
 
 This repository provides human- and machine-readable artifacts for the [SPEC 0 support schedule](https://scientific-python.org/specs/spec-0000/) endorsed by the [Scientific Python Project](https://github.com/scientific-python/).
@@ -26,8 +30,7 @@ Copyright (c) 2025 Sam Vente
 Licensed under the BSD-3-Clause License.
 
 The original copyright notice and BSD-3 license text are preserved in this repository.
-
-## Project Status
+ 
 
 A proposal has been made to merge this work into the main Scientific Python Project. Until that process concludes, this repository provides an independent version for users.
 
